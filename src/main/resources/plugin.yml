@@ -1,0 +1,6 @@
+main: de.simonsator.mysqlsqlite.BootPlugin
+name: MySQL-SQLite-Drivers-For-Nukkit
+version: ${project.version}
+author: Simonsator
+load: STARTUP
+api: ["1.0.9"]
